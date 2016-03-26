@@ -220,7 +220,6 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "download_media",
     "invite",
     "autoaddersudo",
     "id",
